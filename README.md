@@ -3,9 +3,9 @@
 
 ## Live Demo / Перегляд сайту / Просмотр сайта
 
-* 🇬🇧 **English:** You can check the live site [here]()
-* 🇺🇦 **Українська:** Подивитися роботу сайту можна [тут]()
-* 🇷🇺 **Русский:** Посмотреть работу сайта вы можете [тут]()
+* 🇬🇧 **English:** You can check the live site [here](https://webbit-ro.github.io/SnipSnap-Dept/)
+* 🇺🇦 **Українська:** Подивитися роботу сайту можна [тут](https://webbit-ro.github.io/SnipSnap-Dept/)
+* 🇷🇺 **Русский:** Посмотреть работу сайта вы можете [тут](https://webbit-ro.github.io/SnipSnap-Dept/)
 ---
 
 ## Choose language / Оберіть мову / Выберите язык:
